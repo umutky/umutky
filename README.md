@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @umutky
-- 👀 I’m interested in Statistics and Data Science.
-- 🌱 I’m currently learning Statistics, Data Science, and Database Systems. I'm trying to improve myself on R, Python, and SQL.
+- 👀 I’m and Jr. Data Scientist
 - 📫 How to reach me: umut.kaya2700@gmail.com or kyumut@proton.me
 - ✨ Datacamp: [My DataCamp Profile](https://www.datacamp.com/profile/umutkaya2700)
 - 🔍 [You Can Take a Look at My Search Engine](https://searx.umutky.xyz/)

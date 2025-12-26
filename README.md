@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @umutky
+- 👋 Hi, I’m Umut.
 - 📫 How to reach me: umut.kaya2700@gmail.com
 <!---
 umutky/umutky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
